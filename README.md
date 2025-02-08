@@ -1,2 +1,2 @@
 # javascript-codes
-A Code Repository for My JavaScrirpt Programs :)
+A Code Repository for My JavaScript Programs :)
